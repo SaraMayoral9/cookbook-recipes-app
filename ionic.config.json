@@ -1,0 +1,7 @@
+{
+  "name": "cooking-recipes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
